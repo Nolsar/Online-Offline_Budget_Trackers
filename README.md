@@ -10,6 +10,7 @@ A PWA (progressive web application) that allows user to be able to add expenses 
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Technologies used to create app](#technologies-used)
 * [Screenshots](#screenshots)
+* [Depolyed app](#deployed-app)
 * [Useful resources](#Useful-resources)
 * [Authors](#authors)
 
@@ -47,14 +48,15 @@ THEN that will be shown on the page, and added to their transaction history when
 ## Screenshots
 
 ### Online Image
-<img src="https://github.com/mauricechouam/PWA-Online-Offline-Budget-Tracker/blob/master/public/icons/online2.jpg">
+<img src="https://github.com/Nolsar/Online-Offline_Budget_Trackers/blob/main/public/icons/onlinescreenshot.jpg">
 <br>
 <br>
 
 ### Offline Image
-<img src="https://github.com/mauricechouam/PWA-Online-Offline-Budget-Tracker/blob/master/public/icons/offline.jpg">
+<img src="https://github.com/Nolsar/Online-Offline_Budget_Trackers/blob/main/public/icons/offlinescreenshot.jpg">
 
-
+## Deployed app
+* [Deployed App](https://shielded-wildwood-66211.herokuapp.com/)
 
 ## Useful resources
 * [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
@@ -68,5 +70,5 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## Authors
 * Application Built from Scratch by 
-   [mauricechouam](https://github.com/mauricechouam)
-  <img src="https://github.com/mauricechouam.png" alt="GitHub Profile Pic" width="150" height="150">
+   [saranolan](https://github.com/Nolsar/Online-Offline_Budget_Trackers)
+  
